@@ -1,0 +1,7 @@
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\obj\Debug\7.2.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\obj\Debug\7.2.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\bin\Debug\7.2.exe.config
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\bin\Debug\7.2.exe
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\bin\Debug\7.2.pdb
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\obj\Debug\7.2.exe
+C:\Users\Ilham\source\repos\6.1.1 latihan\7.2\obj\Debug\7.2.pdb

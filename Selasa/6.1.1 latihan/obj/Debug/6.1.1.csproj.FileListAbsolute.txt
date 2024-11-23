@@ -1,0 +1,7 @@
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\bin\Debug\6.1.1 latihan.exe.config
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\bin\Debug\6.1.1 latihan.exe
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\bin\Debug\6.1.1 latihan.pdb
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\obj\Debug\6.1.1.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\obj\Debug\6.1.1.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\obj\Debug\6.1.1 latihan.exe
+C:\Users\Ilham\source\repos\6.1.1 latihan\6.1.1 latihan\obj\Debug\6.1.1 latihan.pdb
