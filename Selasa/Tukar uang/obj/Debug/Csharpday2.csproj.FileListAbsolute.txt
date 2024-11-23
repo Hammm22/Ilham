@@ -1,0 +1,7 @@
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\bin\Debug\Csharpday2.exe.config
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\bin\Debug\Csharpday2.exe
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\bin\Debug\Csharpday2.pdb
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\obj\Debug\Csharpday2.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\obj\Debug\Csharpday2.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\obj\Debug\Csharpday2.exe
+C:\Users\Ilham\source\repos\Csharpday2\Csharpday2\obj\Debug\Csharpday2.pdb

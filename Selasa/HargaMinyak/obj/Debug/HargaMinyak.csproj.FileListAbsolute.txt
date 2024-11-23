@@ -1,0 +1,7 @@
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\bin\Debug\HargaMinyak.exe.config
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\bin\Debug\HargaMinyak.exe
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\bin\Debug\HargaMinyak.pdb
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\obj\Debug\HargaMinyak.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\obj\Debug\HargaMinyak.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\obj\Debug\HargaMinyak.exe
+C:\Users\Ilham\source\repos\HargaMinyak\HargaMinyak\obj\Debug\HargaMinyak.pdb
