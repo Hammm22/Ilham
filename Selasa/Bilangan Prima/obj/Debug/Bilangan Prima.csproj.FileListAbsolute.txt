@@ -1,0 +1,7 @@
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\bin\Debug\Bilangan Prima.exe.config
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\bin\Debug\Bilangan Prima.exe
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\bin\Debug\Bilangan Prima.pdb
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\obj\Debug\Bilangan Prima.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\obj\Debug\Bilangan Prima.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\obj\Debug\Bilangan Prima.exe
+C:\Users\Ilham\source\repos\Bilangan Prima\Bilangan Prima\obj\Debug\Bilangan Prima.pdb
